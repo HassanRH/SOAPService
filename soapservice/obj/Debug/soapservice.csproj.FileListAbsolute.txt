@@ -1,0 +1,14 @@
+c:\users\hassan\Source\Repos\soapservice\soapservice\obj\Debug\soapservice.csprojResolveAssemblyReference.cache
+c:\users\hassan\Source\Repos\soapservice\soapservice\obj\Debug\soapservice.csproj.CoreCompileInputs.cache
+c:\users\hassan\Source\Repos\soapservice\soapservice\bin\soapservice.dll.config
+c:\users\hassan\Source\Repos\soapservice\soapservice\bin\soapservice.dll
+c:\users\hassan\Source\Repos\soapservice\soapservice\bin\soapservice.pdb
+c:\users\hassan\Source\Repos\soapservice\soapservice\obj\Debug\soapservice.dll
+c:\users\hassan\Source\Repos\soapservice\soapservice\obj\Debug\soapservice.pdb
+C:\Users\Hassan\Desktop\3 Semester\soapservice\soapservice\bin\soapservice.dll.config
+C:\Users\Hassan\Desktop\3 Semester\soapservice\soapservice\bin\soapservice.dll
+C:\Users\Hassan\Desktop\3 Semester\soapservice\soapservice\bin\soapservice.pdb
+C:\Users\Hassan\Desktop\3 Semester\soapservice\soapservice\obj\Debug\soapservice.csprojAssemblyReference.cache
+C:\Users\Hassan\Desktop\3 Semester\soapservice\soapservice\obj\Debug\soapservice.csproj.CoreCompileInputs.cache
+C:\Users\Hassan\Desktop\3 Semester\soapservice\soapservice\obj\Debug\soapservice.dll
+C:\Users\Hassan\Desktop\3 Semester\soapservice\soapservice\obj\Debug\soapservice.pdb

@@ -1,0 +1,34 @@
+c:\users\hassan\Source\Repos\soapservice\soapserviceTests\obj\Debug\soapserviceTests.csprojResolveAssemblyReference.cache
+c:\users\hassan\Source\Repos\soapservice\soapserviceTests\obj\Debug\soapserviceTests.csproj.CoreCompileInputs.cache
+c:\users\hassan\Source\Repos\soapservice\soapserviceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\hassan\Source\Repos\soapservice\soapserviceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\hassan\Source\Repos\soapservice\soapserviceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\hassan\Source\Repos\soapservice\soapserviceTests\bin\Debug\soapserviceTests.dll
+c:\users\hassan\Source\Repos\soapservice\soapserviceTests\bin\Debug\soapserviceTests.pdb
+c:\users\hassan\Source\Repos\soapservice\soapserviceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\hassan\Source\Repos\soapservice\soapserviceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\hassan\Source\Repos\soapservice\soapserviceTests\bin\Debug\soapservice.dll
+c:\users\hassan\Source\Repos\soapservice\soapserviceTests\bin\Debug\soapservice.pdb
+c:\users\hassan\Source\Repos\soapservice\soapserviceTests\bin\Debug\soapservice.dll.config
+c:\users\hassan\Source\Repos\soapservice\soapserviceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\hassan\Source\Repos\soapservice\soapserviceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\hassan\Source\Repos\soapservice\soapserviceTests\obj\Debug\soapserviceTests.csproj.CopyComplete
+c:\users\hassan\Source\Repos\soapservice\soapserviceTests\obj\Debug\soapserviceTests.dll
+c:\users\hassan\Source\Repos\soapservice\soapserviceTests\obj\Debug\soapserviceTests.pdb
+C:\Users\Hassan\Desktop\3 Semester\soapservice\soapserviceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Hassan\Desktop\3 Semester\soapservice\soapserviceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Hassan\Desktop\3 Semester\soapservice\soapserviceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Hassan\Desktop\3 Semester\soapservice\soapserviceTests\bin\Debug\soapserviceTests.dll
+C:\Users\Hassan\Desktop\3 Semester\soapservice\soapserviceTests\bin\Debug\soapserviceTests.pdb
+C:\Users\Hassan\Desktop\3 Semester\soapservice\soapserviceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Hassan\Desktop\3 Semester\soapservice\soapserviceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Hassan\Desktop\3 Semester\soapservice\soapserviceTests\bin\Debug\soapservice.dll
+C:\Users\Hassan\Desktop\3 Semester\soapservice\soapserviceTests\bin\Debug\soapservice.pdb
+C:\Users\Hassan\Desktop\3 Semester\soapservice\soapserviceTests\bin\Debug\soapservice.dll.config
+C:\Users\Hassan\Desktop\3 Semester\soapservice\soapserviceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Hassan\Desktop\3 Semester\soapservice\soapserviceTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Hassan\Desktop\3 Semester\soapservice\soapserviceTests\obj\Debug\soapserviceTests.csprojAssemblyReference.cache
+C:\Users\Hassan\Desktop\3 Semester\soapservice\soapserviceTests\obj\Debug\soapserviceTests.csproj.CoreCompileInputs.cache
+C:\Users\Hassan\Desktop\3 Semester\soapservice\soapserviceTests\obj\Debug\soapserviceTests.csproj.CopyComplete
+C:\Users\Hassan\Desktop\3 Semester\soapservice\soapserviceTests\obj\Debug\soapserviceTests.dll
+C:\Users\Hassan\Desktop\3 Semester\soapservice\soapserviceTests\obj\Debug\soapserviceTests.pdb
